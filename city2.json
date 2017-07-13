@@ -1,133 +1,121 @@
 {
-"name":"中国",
+"name":"中国","id":"zg","ts":"gz"
 "children":
 [
 	{ 
-	  "name":"浙江" , 
+	  "name":"浙江" , "id":"zj","ts":"jz"
   	  "children":
   	  [
 	  	  	{"name":"杭州","id":"hz","ts":"zh" },
-	  	  	{"name":"宁波","id":"hz","ts":"zh" },
-	  	  	{"name":"温州","id":"hz","ts":"zh" },
-	  	  	{"name":"绍兴","id":"hz","ts":"zh" }
+	  	  	{"name":"宁波","id":"nb","ts":"bn" },
+	  	  	{"name":"温州","id":"wz","ts":"zw" },
+	  	  	{"name":"绍兴","id":"sx","ts":"xs" }
   	  ] 
   	},
 	{ 
-		"name":"广西" , 
+		"name":"广西" , "id":"gx","ts":"xg"
 		"children":
 		[
-			{"name":"桂林","id":"hz","ts":"zh"},
-			{"name":"南宁","id":"hz","ts":"zh"},
-			{"name":"柳州","id":"hz","ts":"zh"},
-			{"name":"防城港","id":"hz","ts":"zh"}
+			{"name":"桂林","id":"gl","ts":"lg"},
+			{"name":"南宁","id":"nn","ts":"nn"},
+			{"name":"柳州","id":"lz","ts":"zl"},
+			{"name":"防城港","id":"fcg","ts":"gcf"}
 		] 
 	},
 	{ 
-		"name":"黑龙江",
+		"name":"黑龙江","id":"hlj","ts":"jlh"
 		"children":
 		[
-			{"name":"哈尔滨","id":"hz","ts":"zh"},
-			{"name":"齐齐哈尔","id":"hz","ts":"zh"},
-			{"name":"牡丹江","id":"hz","ts":"zh"},
-			{"name":"大庆","id":"hz","ts":"zh"}
+			{"name":"哈尔滨","id":"heb","ts":"beh"},
+			{"name":"齐齐哈尔","id":"qqhe","ts":"ehqq"},
+			{"name":"牡丹江","id":"mdj","ts":"jdm"},
+			{"name":"大庆","id":"dq","ts":"qd"}
 		] 
 	},
 	{ 
-		"name":"新疆" , 
+		"name":"新疆" , "id":"xj","ts":"jx"
 		"children":
 		[
-			{"name":"乌鲁木齐","id":"hz","ts":"zh"},
-			{"name":"克拉玛依","id":"hz","ts":"zh"},
-			{"name":"吐鲁番","id":"hz","ts":"zh"},
-			{"name":"哈密","id":"hz","ts":"zh"}
+			{"name":"乌鲁木齐","id":"wlmq","ts":"qmlw"},
+			{"name":"克拉玛依","id":"klmy","ts":"ymlk"},
+			{"name":"吐鲁番","id":"tlf","ts":"flt"},
+			{"name":"哈密","id":"hm","ts":"mh"}
 		]
 	},
 	{ 
-		"name":"河北" , 
+		"name":"河北" , "id":"hb","ts":"bh"
 		"children":
 		[
-			{"name":"石家庄","id":"hz","ts":"zh"},
-			{"name":"唐山","id":"hz","ts":"zh"},
-			{"name":"邯郸","id":"hz","ts":"zh"},
-			{"name":"秦皇岛","id":"hz","ts":"zh"}
+			{"name":"石家庄","id":"sjz","ts":"zjs"},
+			{"name":"唐山","id":"ts","ts":"st"},
+			{"name":"邯郸","id":"hd","ts":"dh"},
+			{"name":"秦皇岛","id":"qhd","ts":"dhq"}
 		]
 	},
 	{ 
-		"name":"西藏" , 
+		"name":"西藏" , "id":"xz","ts":"zx"
 		"children":
 		[
-			{"name":"拉萨","id":"hz","ts":"zh"},
-			{"name":"昌都","id":"hz","ts":"zh"},
-			{"name":"林芝","id":"hz","ts":"zh"}
+			{"name":"拉萨","id":"ls","ts":"sl"},
+			{"name":"昌都","id":"cd","ts":"dc"},
+			{"name":"林芝","id":"lzh","ts":"zhl"}
 		]
 	},
 	{ 
-		"name":"江苏" , 
+		"name":"江苏" , "id":"js","ts":"sj"
 		"children":
 		[
-			{"name":"南京","id":"hz","ts":"zh"},
-			{"name":"无锡","id":"hz","ts":"zh"},
-			{"name":"徐州","id":"hz","ts":"zh"},
-			{"name":"常州","id":"hz","ts":"zh"},
-			{"name":"连云港","id":"hz","ts":"zh"},
-			{"name":"淮安","id":"hz","ts":"zh"}
+			{"name":"南京","id":"nj","ts":"jn"},
+			{"name":"无锡","id":"wx","ts":"xw"},
+			{"name":"徐州","id":"xz","ts":"zx"},
+			{"name":"常州","id":"cz","ts":"zc"},
+			{"name":"连云港","id":"lyg","ts":"gyl"},
+			{"name":"淮安","id":"ha","ts":"ah"}
 		]
 	},
 	{ 
-		"name":"江苏" , 
+		"name":"湖南" , "id":"hn","ts":"nh"
 		"children":
 		[
-			{"name":"南京","id":"hz","ts":"zh"},
-			{"name":"无锡","id":"hz","ts":"zh"},
-			{"name":"徐州","id":"hz","ts":"zh"},
-			{"name":"常州","id":"hz","ts":"zh"},
-			{"name":"连云港","id":"hz","ts":"zh"},
-			{"name":"淮安","id":"hz","ts":"zh"}
+			{"name":"长沙","id":"cs","ts":"sc"},
+			{"name":"株洲","id":"zz","ts":"zz"},
+			{"name":"湘潭","id":"xt","ts":"tx"},
+			{"name":"衡阳","id":"hy","ts":"yh"},
+			{"name":"邵阳","id":"sy","ts":"ys"},
+			{"name":"岳阳","id":"yy","ts":"yy"}
 		]
 	},
 	{ 
-		"name":"湖南" , 
+		"name":"海南" , "id":"han","ts":"nha"
 		"children":
 		[
-			{"name":"长沙","id":"hz","ts":"zh"},
-			{"name":"株洲","id":"hz","ts":"zh"},
-			{"name":"湘潭","id":"hz","ts":"zh"},
-			{"name":"衡阳","id":"hz","ts":"zh"},
-			{"name":"邵阳","id":"hz","ts":"zh"},
-			{"name":"岳阳","id":"hz","ts":"zh"}
+			{"name":"海口","id":"hk","ts":"kh"},
+			{"name":"三亚","id":"sy","ts":"ys"},
+			{"name":"三沙","id":"ss","ts":"ss"}
 		]
 	},
 	{ 
-		"name":"海南" , 
+		"name":"陕西" , "id":"sx","ts":"xs"
 		"children":
 		[
-			{"name":"海口","id":"hz","ts":"zh"},
-			{"name":"三亚","id":"hz","ts":"zh"},
-			{"name":"三沙","id":"hz","ts":"zh"}
+			{"name":"西安","id":"xa","ts":"ax"},
+			{"name":"咸阳","id":"xy","ts":"yx"},
+			{"name":"汉中","id":"hzh","ts":"zhh"},
+			{"name":"安康","id":"ak","ts":"ka"},
+			{"name":"榆林","id":"yl","ts":"ly"},
+			{"name":"延安","id":"ya","ts":"ay"}
 		]
 	},
 	{ 
-		"name":"陕西" , 
+		"name":"甘肃" , "id":"gs","ts":"sg"
 		"children":
 		[
-			{"name":"西安","id":"hz","ts":"zh"},
-			{"name":"咸阳","id":"hz","ts":"zh"},
-			{"name":"汉中","id":"hz","ts":"zh"},
-			{"name":"安康","id":"hz","ts":"zh"},
-			{"name":"榆林","id":"hz","ts":"zh"},
-			{"name":"延安","id":"hz","ts":"zh"}
-		]
-	},
-	{ 
-		"name":"甘肃" , 
-		"children":
-		[
-			{"name":"兰州","id":"hz","ts":"zh"},
-			{"name":"酒泉","id":"hz","ts":"zh"},
-			{"name":"金昌","id":"hz","ts":"zh"},
-			{"name":"天水","id":"hz","ts":"zh"},
-			{"name":"嘉峪关","id":"hz","ts":"zh"},
-			{"name":"武威","id":"hz","ts":"zh"}
+			{"name":"兰州","id":"lzh","ts":"zhl"},
+			{"name":"酒泉","id":"jq","ts":"qj"},
+			{"name":"金昌","id":"jc","ts":"cj"},
+			{"name":"天水","id":"ts","ts":"st"},
+			{"name":"嘉峪关","id":"jyg","ts":"gyj"},
+			{"name":"武威","id":"ww","ts":"ww"}
 		]
 	}
 ]
