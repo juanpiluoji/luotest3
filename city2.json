@@ -1,9 +1,9 @@
 {
-"name":"中国","id":"zg","ts":"gz"
+"name":"中国","id":"zg","ts":"gz",
 "children":
 [
 	{ 
-	  "name":"浙江" , "id":"zj","ts":"jz"
+	  "name":"浙江" , "id":"zj","ts":"jz",
   	  "children":
   	  [
 	  	  	{"name":"杭州","id":"hz","ts":"zh" },
@@ -13,7 +13,7 @@
   	  ] 
   	},
 	{ 
-		"name":"广西" , "id":"gx","ts":"xg"
+		"name":"广西" , "id":"gx","ts":"xg",
 		"children":
 		[
 			{"name":"桂林","id":"gl","ts":"lg"},
@@ -23,7 +23,7 @@
 		] 
 	},
 	{ 
-		"name":"黑龙江","id":"hlj","ts":"jlh"
+		"name":"黑龙江","id":"hlj","ts":"jlh",
 		"children":
 		[
 			{"name":"哈尔滨","id":"heb","ts":"beh"},
@@ -33,7 +33,7 @@
 		] 
 	},
 	{ 
-		"name":"新疆" , "id":"xj","ts":"jx"
+		"name":"新疆" , "id":"xj","ts":"jx",
 		"children":
 		[
 			{"name":"乌鲁木齐","id":"wlmq","ts":"qmlw"},
@@ -43,7 +43,7 @@
 		]
 	},
 	{ 
-		"name":"河北" , "id":"hb","ts":"bh"
+		"name":"河北" , "id":"hb","ts":"bh",
 		"children":
 		[
 			{"name":"石家庄","id":"sjz","ts":"zjs"},
@@ -53,7 +53,7 @@
 		]
 	},
 	{ 
-		"name":"西藏" , "id":"xz","ts":"zx"
+		"name":"西藏" , "id":"xz","ts":"zx",
 		"children":
 		[
 			{"name":"拉萨","id":"ls","ts":"sl"},
@@ -62,7 +62,7 @@
 		]
 	},
 	{ 
-		"name":"江苏" , "id":"js","ts":"sj"
+		"name":"江苏" , "id":"js","ts":"sj",
 		"children":
 		[
 			{"name":"南京","id":"nj","ts":"jn"},
@@ -74,7 +74,7 @@
 		]
 	},
 	{ 
-		"name":"湖南" , "id":"hn","ts":"nh"
+		"name":"湖南" , "id":"hn","ts":"nh",
 		"children":
 		[
 			{"name":"长沙","id":"cs","ts":"sc"},
@@ -86,7 +86,7 @@
 		]
 	},
 	{ 
-		"name":"海南" , "id":"han","ts":"nha"
+		"name":"海南" , "id":"han","ts":"nha",
 		"children":
 		[
 			{"name":"海口","id":"hk","ts":"kh"},
@@ -95,7 +95,7 @@
 		]
 	},
 	{ 
-		"name":"陕西" , "id":"sx","ts":"xs"
+		"name":"陕西" , "id":"sx","ts":"xs",
 		"children":
 		[
 			{"name":"西安","id":"xa","ts":"ax"},
@@ -107,7 +107,7 @@
 		]
 	},
 	{ 
-		"name":"甘肃" , "id":"gs","ts":"sg"
+		"name":"甘肃" , "id":"gs","ts":"sg",
 		"children":
 		[
 			{"name":"兰州","id":"lzh","ts":"zhl"},
