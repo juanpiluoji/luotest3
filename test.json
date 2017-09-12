@@ -23,7 +23,8 @@
 		{
 			"groupName": "MEMBER",
 			"IP": "192..168.1.4",
-			"invoke": 226633
+			"invoke": 226633,
+ -			"state": "warning"
 		},
 		{
 			"groupName": "MEMBER",
@@ -42,7 +43,7 @@
 			"IP": "192.168.1.11",
 			"invoke": 28312,
  -			"state": "normal",
- -			"state": "warning"
+ -			"state": "normal"
 		},
 		{
 			"groupName": "ORDER-C",
