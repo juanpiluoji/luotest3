@@ -9,12 +9,6 @@
 			"state": "normal"
 		},
 		{
-			"groupName": "",
-			"IP": "",
-			"invoke": 0,
-			"state": ""
-		},
-		{
 			"groupName": "MTK-Q",
 			"IP": "198.168.1.2",
 			"invoke": 55660,
@@ -37,6 +31,12 @@
 			"IP": "192.168.1.5",
 			"invoke": 44463,
 			"state": "warning"
+		},
+		{
+			"groupName": "",
+			"IP": "",
+			"invoke": 0,
+			"state": ""
 		},
 		{
 			"groupName": "MEMBER",
