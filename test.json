@@ -1,28 +1,72 @@
 {
-	"cityList": [
+	"serviceName": "c.goods.message.Increaseskust.ockMsg",
+	"invoke": 3132166,
+	"children": [
 		{
-                    "value": "beijing",
-                    "label": "北京市"
-                },
-                {
-                    "value": "shanghai",
-                    "label": "上海市"
-                },
-                {
-                    "value": "shenzhen",
-                    "label": "深圳市"
-                },
-                {
-                    "value": "hangzhou",
-                    "label": "杭州市"
-                },
-                {
-                    "value": "nanjing",
-                    "label": "南京市"
-                },
-                {
-                    "value": "chongqing",
-                    "label": "重庆市"
-                }
+			"groupName": "MTK-Q",
+			"IP": "192.168.1.1",
+			"invoke": 286701,
+			"state": "normal"
+		},
+		{
+			"groupName": "MTK-Q",
+			"IP": "198.168.1.2",
+			"invoke": 55660,
+			"state": "normal"
+		},
+		{
+			"groupName": "MTK-Q",
+			"IP": "192.168.1.3",
+			"invoke": 34552,
+			"state": "normal"
+		},
+		{
+			"groupName": "MEMBER",
+			"IP": "192..168.1.4",
+			"invoke": 226633,
+			"state": "warning"
+		},
+		{
+			"groupName": "MEMBER",
+			"IP": "192.168.1.5",
+			"invoke": 44463,
+			"state": "warning"
+		},
+		{
+			"groupName": "MEMBER",
+			"IP": "192.168.1.6",
+			"invoke": 231123,
+			"state": "warning"
+		},
+		{
+			"groupName": "ORDER-C",
+			"IP": "192.168.1.11",
+			"invoke": 28312,
+			"state": "normal"
+		},
+		{
+			"groupName": "ORDER-C",
+			"IP": "192.168.1.12",
+			"invoke": 31222,
+			"state": "normal"
+		},
+		{
+			"groupName": "ORDER-C",
+			"IP": "192.168.1.13",
+			"invoke": 55677,
+			"state": "normal"
+		},
+		{
+			"groupName": "ORDER-C",
+			"IP": "192.168.1.14",
+			"invoke": 1212321,
+			"state": "full"
+		},
+		{
+			"groupName": "ORDER-C",
+			"IP": "192.168.1.15",
+			"invoke": 1231677,
+			"state": "full"
+		}
 	]
 }
